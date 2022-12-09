@@ -2,7 +2,7 @@ import polyval
 import pytest
 
 test_polynomials = (
-    [5, 2, 1],
+    [5, 2, 0],  # [5, 2, 1],
     [1, 0]
 )
 
